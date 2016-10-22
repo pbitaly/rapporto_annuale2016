@@ -1,0 +1,14 @@
+22/10/16 17.30
+Statistiche del progetto
+
+                 	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	#File	
+Totali:          	     644	  8048	                  44723	                52110	    1	
+Restanti:        	     644	  8048	                  44723	                52110	    1	
+Univoci:         	     580	  7956	                  44265	                51624	    1	
+Univoci restanti:	     580	  7956	                  44265	                51624	    1	
+
+
+Statistiche file singoli:
+
+Nome del file                           	Segmenti totali	Segmenti restanti	Segmenti univoci	Segmenti univoci restanti	Parole totali	Parole restanti	Parole univoche	Parole univoche restanti	Caratteri totali (senza spazi)	Caratteri restanti (senza spazi)	Caratteri univoci (senza spazi)	Caratteri univoci restanti (senza spazi)	Caratteri totali (con spazi)	Caratteri restanti (con spazi)	Caratteri univoci (con spazi)	Caratteri univoci restanti (con spazi)	
+PBI 2015 Annual Review - FINAL COPY.docx	            644	              644	             580	                      580	         8048	           8048	           7956	                    7956	                         44723	                           44723	                          44265	                                   44265	                       52110	                         52110	                        51624	                                 51624	
